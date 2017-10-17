@@ -1,0 +1,12 @@
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp1.1\ShoppingCartTests.deps.json
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp1.1\ShoppingCartTests.runtimeconfig.json
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp1.1\ShoppingCartTests.runtimeconfig.dev.json
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp1.1\ShoppingCartTests.dll
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCartTests\bin\Debug\netcoreapp1.1\ShoppingCartTests.pdb
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCartTests\obj\Debug\netcoreapp1.1\ShoppingCartTests.csprojResolveAssemblyReference.cache
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCartTests\obj\Debug\netcoreapp1.1\ShoppingCartTests.AssemblyInfo.cs
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCartTests\obj\Debug\netcoreapp1.1\ShoppingCartTests.dll
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCartTests\obj\Debug\netcoreapp1.1\ShoppingCartTests.pdb

@@ -1,0 +1,9 @@
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.DAL\bin\Debug\ShoppingCart.DAL.dll.config
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.DAL\bin\Debug\ShoppingCart.DAL.dll
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.DAL\bin\Debug\ShoppingCart.DAL.pdb
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.DAL\bin\Debug\EntityFramework.dll
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.DAL\bin\Debug\EntityFramework.xml
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.DAL\obj\Debug\ShoppingCart.DAL.dll
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.DAL\obj\Debug\ShoppingCart.DAL.pdb
