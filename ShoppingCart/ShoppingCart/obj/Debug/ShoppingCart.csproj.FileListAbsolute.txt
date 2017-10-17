@@ -29,6 +29,5 @@ E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart\bin\S
 E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
 E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
 E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
 E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
