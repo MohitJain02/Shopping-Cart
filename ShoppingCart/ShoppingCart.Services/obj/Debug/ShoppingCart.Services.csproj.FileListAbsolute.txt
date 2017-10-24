@@ -1,5 +1,5 @@
 E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.Services\bin\Debug\ShoppingCart.Services.dll
 E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.Services\bin\Debug\ShoppingCart.Services.pdb
+E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.Services\obj\Debug\ShoppingCart.Services.csprojResolveAssemblyReference.cache
 E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.Services\obj\Debug\ShoppingCart.Services.dll
 E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.Services\obj\Debug\ShoppingCart.Services.pdb
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.Services\obj\Debug\ShoppingCart.Services.csprojResolveAssemblyReference.cache
