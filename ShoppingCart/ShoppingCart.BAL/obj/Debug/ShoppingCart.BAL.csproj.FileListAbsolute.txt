@@ -1,8 +1,0 @@
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.BAL\bin\Debug\ShoppingCart.BAL.dll
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.BAL\bin\Debug\ShoppingCart.BAL.pdb
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.BAL\bin\Debug\ShoppingCart.DAL.dll
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.BAL\bin\Debug\ShoppingCart.DAL.pdb
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.BAL\bin\Debug\ShoppingCart.DAL.dll.config
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.BAL\obj\Debug\ShoppingCart.BAL.csprojResolveAssemblyReference.cache
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.BAL\obj\Debug\ShoppingCart.BAL.dll
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart.BAL\obj\Debug\ShoppingCart.BAL.pdb

@@ -1,8 +1,0 @@
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart\src\app\app.component.js
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart\src\app\app.component.js.map
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart\src\app\app.module.js
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart\src\app\app.module.js.map
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart\src\main.js
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart\src\main.js.map
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart\src\app\app.component.spec.js
-E:\Project\ShoppingCartApplication\Shopping-Cart\ShoppingCart\ShoppingCart\src\app\app.component.spec.js.map
